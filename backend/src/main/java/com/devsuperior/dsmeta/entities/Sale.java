@@ -18,6 +18,7 @@ public class Sale {
 	private String sellerName;
 	private Integer visited;
 	private Integer deals;
+	
 	private Double amount;
 	private LocalDate date;
 	
